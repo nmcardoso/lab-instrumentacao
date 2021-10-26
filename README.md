@@ -3,7 +3,7 @@
 - [x] Ler dados dos sinais sonoros (modo offline); 
 - [x] Apresentar um gráfico dos dados adquiridos no domínio do tempo; 
 - [x] Indicar os valores máximo e mínimo do sinal; 
-- [ ] Apresentar um espectro do sinal que conterá toda a informação do arquivo; 
+- [x] Apresentar um espectro do sinal que conterá toda a informação do arquivo; 
 - [ ] Indicar o valor das amplitudes e das frequências de maior amplitude no espectro; 
 - [ ] Indicar o número total de amostras capturadas do sinal e o número de amostras selecionadas para análise; 
 - [ ] Indicar o valor da frequência de amostragem e do período de amostragem; 
