@@ -13,6 +13,7 @@
 		<Item Name="Get Lvm Data.vi" Type="VI" URL="../VIs/Get Lvm Data.vi"/>
 		<Item Name="Get Raw Data.vi" Type="VI" URL="../VIs/Get Raw Data.vi"/>
 		<Item Name="Help.vi" Type="VI" URL="../VIs/Help.vi"/>
+		<Item Name="Read Offline Data.vi" Type="VI" URL="../VIs/Read Offline Data.vi"/>
 		<Item Name="Read Online Data.vi" Type="VI" URL="../VIs/Read Online Data.vi"/>
 		<Item Name="_ACC_DATA_ ASM State.ctl" Type="VI" URL="../VIs/_ACC_DATA_ ASM State.ctl"/>
 		<Item Name="_ACC_DATA_ Config DAta State.ctl" Type="VI" URL="../VIs/_ACC_DATA_ Config DAta State.ctl"/>
@@ -27,5 +28,5 @@
 		<Item Name="_CUST CTL_ PathCotrol.ctl" Type="VI" URL="../VIs/_CUST CTL_ PathCotrol.ctl"/>
 		<Item Name="_CUST CTL_ StreamMIC.ctl" Type="VI" URL="../VIs/_CUST CTL_ StreamMIC.ctl"/>
 	</Item>
-	<Item Name="Read Offline Data.vi" Type="VI" URL="../VIs/Read Offline Data.vi"/>
+	<Item Name="Projeto.vi" Type="VI" URL="../VIs/Projeto.vi"/>
 </Library>
